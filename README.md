@@ -1,7 +1,7 @@
-dna
+my-dna
 ===
 
-This is the DNA source code of Luis Silva, aka @luisbebop
+This is the DNA source code of Luis Silva, aka [@luisbebop](http://www.twitter.com/luisbebop)
 
 ## About
 Via [23andMe](http://23andme.com/), here is my raw, uninterpreted genome SNP data (my DNA fingerprint).
@@ -15,9 +15,7 @@ On the file `mtDNA.txt`, you can find my `Mitochondrial DNA`.
 ## Further Work
 This is a test bed for a new information encoding mecanism using Mitochondrial DNA.
 
-```
 Moreover, mitochondria evolved a unique mechanism which maintains mtDNA integrity through degradation of excessively damaged genomes followed by replication of intact/repaired mtDNA. This mechanism is not present in the nucleus and is enabled by multiple copies of mtDNA present in mitochondria
-```
 
 Via [Wikipedia](https://en.wikipedia.org/wiki/Mitochondrial_DNA)
 
